@@ -1,0 +1,11 @@
+/Users/florinbordei/Desktop/DNP1/Session02/Exercise08/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.0/ConsoleApp2
+/Users/florinbordei/Desktop/DNP1/Session02/Exercise08/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.0/ConsoleApp2.deps.json
+/Users/florinbordei/Desktop/DNP1/Session02/Exercise08/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.0/ConsoleApp2.runtimeconfig.json
+/Users/florinbordei/Desktop/DNP1/Session02/Exercise08/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.0/ConsoleApp2.runtimeconfig.dev.json
+/Users/florinbordei/Desktop/DNP1/Session02/Exercise08/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.0/ConsoleApp2.dll
+/Users/florinbordei/Desktop/DNP1/Session02/Exercise08/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.0/ConsoleApp2.pdb
+/Users/florinbordei/Desktop/DNP1/Session02/Exercise08/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.0/ConsoleApp2.csprojAssemblyReference.cache
+/Users/florinbordei/Desktop/DNP1/Session02/Exercise08/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/florinbordei/Desktop/DNP1/Session02/Exercise08/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.0/ConsoleApp2.AssemblyInfo.cs
+/Users/florinbordei/Desktop/DNP1/Session02/Exercise08/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.0/ConsoleApp2.dll
+/Users/florinbordei/Desktop/DNP1/Session02/Exercise08/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.0/ConsoleApp2.pdb

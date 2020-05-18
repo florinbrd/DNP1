@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/florinbordei/Desktop/DNP1/Session06/Exercise01/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj",
+    "projectUniqueName": "/Users/florinbordei/Documents/GitHub/DNP1/Session06/Exercise01/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj",
     "projectName": "ConsoleApp2",
-    "projectPath": "/Users/florinbordei/Desktop/DNP1/Session06/Exercise01/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj",
-    "outputPath": "/Users/florinbordei/Desktop/DNP1/Session06/Exercise01/ConsoleApp2/ConsoleApp2/obj/",
+    "projectPath": "/Users/florinbordei/Documents/GitHub/DNP1/Session06/Exercise01/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj",
+    "outputPath": "/Users/florinbordei/Documents/GitHub/DNP1/Session06/Exercise01/ConsoleApp2/ConsoleApp2/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -20,7 +20,7 @@ namespace ConsoleApp2
             HttpClient client = new HttpClient();
             Console.WriteLine("get that data for you...");
 
-            string s = await client.GetStringAsync("https://jsonplaceholder.typicode.com/todos?userId=1");
+            string s = await client.GetStringAsync("https://jsonplaceholder.typicode.com/todos");
             return s; 
         }
     }

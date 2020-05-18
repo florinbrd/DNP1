@@ -1,0 +1,12 @@
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise06/ConsoleApp1/Mathlib2/bin/Debug/netcoreapp3.1/Mathlib2.deps.json
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise06/ConsoleApp1/Mathlib2/bin/Debug/netcoreapp3.1/Mathlib2.runtimeconfig.json
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise06/ConsoleApp1/Mathlib2/bin/Debug/netcoreapp3.1/Mathlib2.runtimeconfig.dev.json
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise06/ConsoleApp1/Mathlib2/bin/Debug/netcoreapp3.1/Mathlib2.dll
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise06/ConsoleApp1/Mathlib2/bin/Debug/netcoreapp3.1/Mathlib2.pdb
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise06/ConsoleApp1/Mathlib2/obj/Debug/netcoreapp3.1/Mathlib2.csprojAssemblyReference.cache
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise06/ConsoleApp1/Mathlib2/obj/Debug/netcoreapp3.1/Mathlib2.csproj.CoreCompileInputs.cache
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise06/ConsoleApp1/Mathlib2/obj/Debug/netcoreapp3.1/Mathlib2.AssemblyInfoInputs.cache
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise06/ConsoleApp1/Mathlib2/obj/Debug/netcoreapp3.1/Mathlib2.AssemblyInfo.cs
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise06/ConsoleApp1/Mathlib2/obj/Debug/netcoreapp3.1/Mathlib2.dll
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise06/ConsoleApp1/Mathlib2/obj/Debug/netcoreapp3.1/Mathlib2.pdb
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise06/ConsoleApp1/Mathlib2/obj/Debug/netcoreapp3.1/Mathlib2.genruntimeconfig.cache

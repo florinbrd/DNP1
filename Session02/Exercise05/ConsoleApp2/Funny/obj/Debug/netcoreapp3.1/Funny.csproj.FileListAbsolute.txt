@@ -1,0 +1,12 @@
+/Users/florinbordei/Desktop/DNP1.1/Session02/Exercise05/ConsoleApp2/Funny/bin/Debug/netcoreapp3.1/Funny.deps.json
+/Users/florinbordei/Desktop/DNP1.1/Session02/Exercise05/ConsoleApp2/Funny/bin/Debug/netcoreapp3.1/Funny.runtimeconfig.json
+/Users/florinbordei/Desktop/DNP1.1/Session02/Exercise05/ConsoleApp2/Funny/bin/Debug/netcoreapp3.1/Funny.runtimeconfig.dev.json
+/Users/florinbordei/Desktop/DNP1.1/Session02/Exercise05/ConsoleApp2/Funny/bin/Debug/netcoreapp3.1/Funny.dll
+/Users/florinbordei/Desktop/DNP1.1/Session02/Exercise05/ConsoleApp2/Funny/bin/Debug/netcoreapp3.1/Funny.pdb
+/Users/florinbordei/Desktop/DNP1.1/Session02/Exercise05/ConsoleApp2/Funny/obj/Debug/netcoreapp3.1/Funny.csprojAssemblyReference.cache
+/Users/florinbordei/Desktop/DNP1.1/Session02/Exercise05/ConsoleApp2/Funny/obj/Debug/netcoreapp3.1/Funny.csproj.CoreCompileInputs.cache
+/Users/florinbordei/Desktop/DNP1.1/Session02/Exercise05/ConsoleApp2/Funny/obj/Debug/netcoreapp3.1/Funny.AssemblyInfoInputs.cache
+/Users/florinbordei/Desktop/DNP1.1/Session02/Exercise05/ConsoleApp2/Funny/obj/Debug/netcoreapp3.1/Funny.AssemblyInfo.cs
+/Users/florinbordei/Desktop/DNP1.1/Session02/Exercise05/ConsoleApp2/Funny/obj/Debug/netcoreapp3.1/Funny.dll
+/Users/florinbordei/Desktop/DNP1.1/Session02/Exercise05/ConsoleApp2/Funny/obj/Debug/netcoreapp3.1/Funny.pdb
+/Users/florinbordei/Desktop/DNP1.1/Session02/Exercise05/ConsoleApp2/Funny/obj/Debug/netcoreapp3.1/Funny.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise09/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.deps.json
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise09/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.json
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise09/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.dev.json
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise09/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise09/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise09/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise09/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise09/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise09/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfo.cs
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise09/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise09/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb
+/Users/florinbordei/Desktop/DNP1.1/Session01/Exercise09/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.genruntimeconfig.cache

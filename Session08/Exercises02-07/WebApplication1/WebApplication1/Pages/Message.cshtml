@@ -1,0 +1,29 @@
+@page
+@using System.Net
+@using System.Net.Http
+@model WebApplication1.Pages.Message
+@inject HttpClient client; 
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+    <h1>@Model.message</h1>
+    @{
+            Model.sayHello("this is interesting");
+        }
+    <h2>@Model.message</h2>
+    
+   
+   
+</div>
+</body>
+</html>

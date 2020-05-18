@@ -27,6 +27,7 @@ namespace Client
             }
 
             sellaCat(4, 1);
+            sellaCat(5, 1);
             
             
             Console.WriteLine("SOLD CATS");

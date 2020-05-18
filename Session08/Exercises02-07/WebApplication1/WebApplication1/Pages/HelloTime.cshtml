@@ -1,0 +1,39 @@
+@page
+@using System
+@using WebApplication1.Entities
+@model WebApplication1.Pages.HelloTime
+
+@{
+   
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+    <h1>Local time is @DateTime.Now</h1>
+    
+    <h2> Trying out ViewData - string @ViewData["MyTitle"]</h2>
+    <h2>Trying out ViewData - number @ViewData["MyNumber"]</h2>
+    
+    @{
+        var post = (Post) ViewData["MyObject"];
+    }
+    
+    <h2>Trying out ViewData object: </h2>
+    <p>@post.Number</p>
+    <p>@post.Title</p>
+    <p>@post.Text</p>
+    <p>@post.LengthMessage</p>
+    
+@{ string message = "This is a direct message from the page";
+}
+    
+    <h2> Message direct from the page : @message</h2>
+</div>
+</body>
+</html>

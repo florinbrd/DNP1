@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/florinbordei/Desktop/DNP1.1/Session07/BigExercise/WebApplication1/Client/Client.csproj",
+    "projectUniqueName": "/Users/Florinelx/Documents/GitHub/DNP1/Session07/BigExercise/WebApplication1/Client/Client.csproj",
     "projectName": "Client",
-    "projectPath": "/Users/florinbordei/Desktop/DNP1.1/Session07/BigExercise/WebApplication1/Client/Client.csproj",
-    "outputPath": "/Users/florinbordei/Desktop/DNP1.1/Session07/BigExercise/WebApplication1/Client/obj/",
+    "projectPath": "/Users/Florinelx/Documents/GitHub/DNP1/Session07/BigExercise/WebApplication1/Client/Client.csproj",
+    "outputPath": "/Users/Florinelx/Documents/GitHub/DNP1/Session07/BigExercise/WebApplication1/Client/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -43,7 +43,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.202/RuntimeIdentifierGraph.json"
     }
   }
 }

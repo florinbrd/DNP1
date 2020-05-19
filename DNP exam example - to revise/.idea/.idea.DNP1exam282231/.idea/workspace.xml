@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93089907-620b-4e29-b9f7-1ebb324536f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/Models/SeedData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Create.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Index.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWeb.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWeb.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWebPage.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWebPage.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWebPage.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWebPage.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWebPage.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWebPage.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWebPage.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWebPage.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWebService.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWebService.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWebService.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.RazorAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.RazorAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.RazorCoreGenerate.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.RazorTargetAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.TagHelpers.input.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.TagHelpers.output.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/staticwebassets/VolumeWeb.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/staticwebassets/VolumeWebPage.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/staticwebassets/VolumeWebPage.StaticWebAssets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/VolumeWeb.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebPage/obj/VolumeWeb.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/Data/DbInitializer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/Data/VolumeContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/Migrations/20200111201114_migration1.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/Migrations/20200111201114_migration1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/Migrations/VolumeContextModelSnapshot.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/Results.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/VolumeWebService.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/VolumeWebService.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/VolumeWebService.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/VolumeWebService.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/VolumeWebService.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/VolumeWebService.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/dotnet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/obj/Debug/netcoreapp3.1/VolumeWebService.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/obj/Debug/netcoreapp3.1/VolumeWebService.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/obj/Debug/netcoreapp3.1/VolumeWebService.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/obj/Debug/netcoreapp3.1/VolumeWebService.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/obj/Debug/netcoreapp3.1/VolumeWebService.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/obj/Debug/netcoreapp3.1/VolumeWebService.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/obj/Debug/netcoreapp3.1/VolumeWebService.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/obj/Debug/netcoreapp3.1/VolumeWebService.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/obj/Debug/netcoreapp3.1/staticwebassets/VolumeWebService.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/obj/Debug/netcoreapp3.1/staticwebassets/VolumeWebService.StaticWebAssets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeWebService/obj/VolumeWebService.csproj.EntityFrameworkCore.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DNP1exam282231/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DNP1exam282231/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DNP1exam282231/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DNP1exam282231/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DNP1exam282231/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DNP1exam282231.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DNP1exam282231.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Data/RazorPagesMovieContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Data/RazorPagesMovieContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Migrations/20200110174618_InitialCreate.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Migrations/20200110174618_InitialCreate.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Migrations/20200110174618_InitialCreate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Migrations/20200110174618_InitialCreate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Migrations/RazorPagesMovieContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Migrations/RazorPagesMovieContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Models/Movie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Models/Movie.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/MvcMovie.db" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/MvcMovie.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Error.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Error.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Error.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Error.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Index.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Index.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Movies/Create.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Movies/Create.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Create.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Movies/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Delete.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Movies/Delete.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Delete.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Movies/Details.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Details.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Movies/Details.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Details.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Movies/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Edit.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Movies/Edit.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Edit.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Movies/Index.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Movies/Index.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Privacy.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Privacy.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Privacy.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Privacy.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/_ViewImports.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/_ViewImports.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Pages/_ViewStart.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Pages/_ViewStart.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/VolumeWeb.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/VolumeWebPage.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.0/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.0/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.0/VolumeWeb.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.0/VolumeWeb.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.0/VolumeWeb.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.0/VolumeWeb.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.0/VolumeWeb.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.0/VolumeWeb.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.0/VolumeWeb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.0/VolumeWeb.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.0/VolumeWeb.exe" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.0/VolumeWeb.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.0/VolumeWeb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.0/VolumeWeb.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.0/VolumeWeb.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.0/VolumeWeb.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.0/VolumeWeb.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.0/VolumeWeb.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.0/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/VolumeWeb.Views.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/VolumeWeb.Views.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/VolumeWeb.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWeb.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/VolumeWeb.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/VolumeWeb.exe" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWeb.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/VolumeWeb.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/VolumeWeb.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWeb.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/VolumeWeb.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/VolumeWeb.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/Razor/Pages/Error.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/Razor/Pages/Error.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/Razor/Pages/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/Razor/Pages/Index.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/Razor/Pages/Privacy.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/Razor/Pages/Privacy.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_Layout.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_Layout.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewImports.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewImports.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewStart.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewStart.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.RazorAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.RazorAssemblyInfo.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.RazorAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.RazorAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.RazorCoreGenerate.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.RazorTargetAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.RazorTargetAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.RazorTargetAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.TagHelpers.input.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.TagHelpers.input.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.TagHelpers.output.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.TagHelpers.output.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.csproj.CopyComplete" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.csproj.CopyComplete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.exe" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/VolumeWeb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/VolumeWeb.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/staticwebassets/VolumeWeb.StaticWebAssets.Manifest.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/staticwebassets/VolumeWeb.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.0/staticwebassets/VolumeWeb.StaticWebAssets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.0/staticwebassets/VolumeWeb.StaticWebAssets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/Razor/Pages/Movies/Create.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/Razor/Pages/Movies/Create.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/Razor/Pages/Movies/Delete.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/Razor/Pages/Movies/Delete.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/Razor/Pages/Movies/Details.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/Razor/Pages/Movies/Details.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/Razor/Pages/Movies/Edit.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/Razor/Pages/Movies/Edit.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/Razor/Pages/Movies/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/Razor/Pages/Movies/Index.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.RazorAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.RazorAssemblyInfo.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.RazorAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.RazorAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.RazorCoreGenerate.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.RazorTargetAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.RazorTargetAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.RazorTargetAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.TagHelpers.input.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.TagHelpers.input.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.TagHelpers.output.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.TagHelpers.output.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.Views.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.Views.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.csproj.CopyComplete" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.csproj.CopyComplete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.exe" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWeb.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/VolumeWeb.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/staticwebassets/VolumeWeb.StaticWebAssets.Manifest.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/VolumeWebPage.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/Debug/netcoreapp3.1/staticwebassets/VolumeWeb.StaticWebAssets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/Debug/netcoreapp3.1/staticwebassets/VolumeWeb.StaticWebAssets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/VolumeWeb.csproj.EntityFrameworkCore.targets" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/VolumeWeb.csproj.EntityFrameworkCore.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/VolumeWeb.csproj.codegeneration.targets" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/VolumeWeb.csproj.codegeneration.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/VolumeWeb.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/VolumeWeb.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/VolumeWeb.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/VolumeWeb.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/VolumeWeb.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/VolumeWeb.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/css/site.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/js/site.js" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/js/site.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/jquery-validation/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/jquery-validation/dist/additional-methods.js" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/jquery-validation/dist/jquery.validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/jquery/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/jquery/dist/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/jquery/dist/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWeb/wwwroot/lib/jquery/dist/jquery.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebPage/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWebService/Controllers/CalculateController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebService/Controllers/CalculateController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWebService/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebService/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWebService/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebService/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWebService/VolumeCalculator/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebService/VolumeCalculator/Calculator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWebService/VolumeCalculator/VolumeResult.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebService/Data/VolumeResult.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWebService/VolumeWebService.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebService/VolumeWebService.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWebService/WeatherForecast.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWebService/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebService/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWebService/obj/Debug/netcoreapp3.1/VolumeWebService.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebService/obj/Debug/netcoreapp3.1/VolumeWebService.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWebService/obj/VolumeWebService.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebService/obj/VolumeWebService.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWebService/obj/VolumeWebService.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebService/obj/VolumeWebService.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWebService/obj/VolumeWebService.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebService/obj/VolumeWebService.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWebService/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebService/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeWebService/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeWebService/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Results" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Results" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Results" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Delete.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebService/VolumeCalculator/Calculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Create.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Delete.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Details.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Details.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Edit.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Models/Movie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/Shared/_ValidationScriptsPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Data/RazorPagesMovieContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebService/Data/DbInitializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Models/SeedData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Migrations/RazorPagesMovieContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Migrations/20200110174618_InitialCreate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebService/Migrations/VolumeContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebService/Controllers/CalculateController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebPage/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebService/Migrations/20200111201114_migration1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebService/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebService/Data/VolumeResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebService/Data/VolumeContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VolumeWebService/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/VolumeWebService/Controllers/WeatherForecastController.cs" />
+        <option value="$PROJECT_DIR$/VolumeWebService/Controllers/Calculate.cs" />
+        <option value="$PROJECT_DIR$/VolumeWebService/WeatherForecast.cs" />
+        <option value="$PROJECT_DIR$/VolumeWebService/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/VolumeWebService/VolumeCalculator/VolumeResult.cs" />
+        <option value="$PROJECT_DIR$/WebApplication/Shared/MainLayout.razor" />
+        <option value="$PROJECT_DIR$/VolumeWeb/Models/Movie.cs" />
+        <option value="$PROJECT_DIR$/VolumeWeb/Pages/Movies/EditModel.cs" />
+        <option value="$PROJECT_DIR$/VolumeWeb/Pages/Movies/IndexModel.cs" />
+        <option value="$PROJECT_DIR$/VolumeWeb/Pages/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/VolumeWeb/Models/SeedData.cs" />
+        <option value="$PROJECT_DIR$/VolumeWeb/Migrations/RazorPagesMovieContextModelSnapshot.cs" />
+        <option value="$PROJECT_DIR$/VolumeWebService/Migrations/20200111201114_migration1.cs" />
+        <option value="$PROJECT_DIR$/VolumeWeb/Data/RazorPagesMovieContext.cs" />
+        <option value="$PROJECT_DIR$/VolumeWebService/Data/VolumeContext.cs" />
+        <option value="$PROJECT_DIR$/VolumeWebService/Data/VolumeResult.cs" />
+        <option value="$PROJECT_DIR$/VolumeWebService/VolumeWebService.csproj" />
+        <option value="$PROJECT_DIR$/VolumeWebService/Data/DbInitializer.cs" />
+        <option value="$PROJECT_DIR$/VolumeWebService/Program.cs" />
+        <option value="$PROJECT_DIR$/VolumeWebService/VolumeCalculator/Calculator.cs" />
+        <option value="$PROJECT_DIR$/VolumeWeb/Pages/Movies/Create.cshtml" />
+        <option value="$PROJECT_DIR$/VolumeWeb/Pages/Movies/Index.cshtml" />
+        <option value="$PROJECT_DIR$/VolumeWebService/appsettings.json" />
+        <option value="$PROJECT_DIR$/VolumeWeb/appsettings.json" />
+        <option value="$PROJECT_DIR$/VolumeWeb/Startup.cs" />
+        <option value="$PROJECT_DIR$/VolumeWeb/Program.cs" />
+        <option value="$PROJECT_DIR$/VolumeWeb/Pages/Movies/Create.cshtml.cs" />
+        <option value="$PROJECT_DIR$/VolumeWeb/Pages/Movies/Index.cshtml.cs" />
+        <option value="$PROJECT_DIR$/VolumeWebService/Startup.cs" />
+        <option value="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Index.cshtml.cs" />
+        <option value="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Details.cshtml.cs" />
+        <option value="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Delete.cshtml.cs" />
+        <option value="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Index.cshtml" />
+        <option value="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Create.cshtml" />
+        <option value="$PROJECT_DIR$/VolumeWebService/Controllers/CalculateController.cs" />
+        <option value="$PROJECT_DIR$/VolumeWebPage/Pages/Movies/Create.cshtml.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VFjzO0Mx4cYNdVbVvQmT2NZLqI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.VolumeWebPage">
+    <configuration name="VolumeWeb" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/VolumeWebPage/VolumeWebPage.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolumeWebPage" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/VolumeWebPage/VolumeWebPage.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/VolumeWebService/bin/Debug/netcoreapp3.1/VolumeWebService.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VolumeWebService" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/VolumeWebService/VolumeWebService.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolumeWebService" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/VolumeWebService/VolumeWebService.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="VolumeWebService" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolumeWebService: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/VolumeWebService/VolumeWebService.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.VolumeWebPage" />
+        <item itemvalue=".NET Project.WebApplication" />
+        <item itemvalue=".NET Project.VolumeWeb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93089907-620b-4e29-b9f7-1ebb324536f1" name="Default Changelist" comment="" />
+      <created>1576856000409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576856000409</updated>
+      <workItem from="1576856004854" duration="1825000" />
+      <workItem from="1578654054522" duration="6369000" />
+      <workItem from="1578676440881" duration="11847000" />
+      <workItem from="1578771340340" duration="5729000" />
+      <workItem from="1578783863670" duration="6166000" />
+      <workItem from="1578833086218" duration="8402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

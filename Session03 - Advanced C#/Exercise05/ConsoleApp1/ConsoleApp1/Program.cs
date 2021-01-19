@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Time t1 = new Time(10, 10);
-            Time t2 = new Time(20, 20);
+            Time t2 = new Time(15, 25);
 
             var t3 = t1 + t2; 
             

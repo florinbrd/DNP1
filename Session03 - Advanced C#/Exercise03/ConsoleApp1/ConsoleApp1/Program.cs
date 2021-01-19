@@ -17,6 +17,7 @@ namespace ConsoleApp1
             strings.Push("mom");
             strings.Push("dad");
             strings.Push("brother");
+            
 
             foreach (int i  in inits)
             {

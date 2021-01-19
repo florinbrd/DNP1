@@ -16,7 +16,7 @@ namespace ConsoleApp1
 
         public void shout(Enemy e)
         {
-            Console.WriteLine(e.Damage);
+            Console.WriteLine("I am taking the following damage from this enemy: " + e.Damage);
         }
     }
 }

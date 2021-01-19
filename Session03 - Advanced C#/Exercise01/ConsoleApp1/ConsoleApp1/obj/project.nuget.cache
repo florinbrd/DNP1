@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fK6EowcVu784WWoY92hf4kbpyb1ZzJ+cPIKSczD2WF69+qpJfofJgp1IEDLuthfpWuCAhU3UuwSqfWX6FhLQ7g==",
+  "success": true,
+  "projectFilePath": "/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise01/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/Florinelx/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,32 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="622495ca-d668-4201-9d76-edb0408779b7" name="Default Changelist" comment="" />
+    <list default="true" id="622495ca-d668-4201-9d76-edb0408779b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/ConsoleApp1/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/ConsoleApp1/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/ConsoleApp1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/ConsoleApp1/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/ConsoleApp1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise01/ConsoleApp1/ConsoleApp1/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise02/ConsoleApp2/ConsoleApp2/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/ConsoleApp1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/ConsoleApp1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/ConsoleApp1/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/ConsoleApp1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise03/ConsoleApp1/ConsoleApp1/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/.idea/.idea.ConsoleApp2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/Bomb.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/Bomb.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/IExplodable&lt;T&gt;.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/IExplodable&lt;T&gt;.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise04/ConsoleApp2/ConsoleApp2/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/.idea/.idea.ConsoleApp1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise05/ConsoleApp1/ConsoleApp1/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp2/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp2/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ConsoleApp2/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/ConsoleApp2/Program.cs" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/ConsoleApp2/Program.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1b7q0nOaCysZJHKsnOOCVkFYmPo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="ConsoleApp2" type="DotNetProject" factoryName=".NET Project">
@@ -44,10 +152,11 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value="" />
       <method v="2">
-        <option name="Build" enabled="true" />
+        <option name="Build" />
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -59,34 +168,27 @@
       <option name="presentableId" value="Default" />
       <updated>1587993258319</updated>
       <workItem from="1587993261480" duration="867000" />
+      <workItem from="1611076454509" duration="142000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
-  <component name="WindowStateProjectService">
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1588003151706">
-      <screen x="-49" y="-1080" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/-49.-1080.1920.1080@-49.-1080.1920.1080" timestamp="1588003151706" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1588003151698">
-      <screen x="-49" y="-1080" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1440.900/-49.-1080.1920.1080@-49.-1080.1920.1080" timestamp="1588003151698" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1588003151694">
-      <screen x="-49" y="-1080" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1440.900/-49.-1080.1920.1080@-49.-1080.1920.1080" timestamp="1588003151694" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1588003151702">
-      <screen x="-49" y="-1080" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1440.900/-49.-1080.1920.1080@-49.-1080.1920.1080" timestamp="1588003151702" />
-    <state x="511" y="-801" key="Rider.ProjectTemplateDialog.Size" timestamp="1587993530515">
-      <screen x="-49" y="-1080" width="1920" height="1080" />
-    </state>
-    <state x="511" y="-801" key="Rider.ProjectTemplateDialog.Size/0.0.1440.900/-49.-1080.1920.1080@-49.-1080.1920.1080" timestamp="1587993530515" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>

@@ -10,3 +10,15 @@
 /Users/florinbordei/Desktop/DNP1.1/Session03/Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll
 /Users/florinbordei/Desktop/DNP1.1/Session03/Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb
 /Users/florinbordei/Desktop/DNP1.1/Session03/Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.genruntimeconfig.cache
+/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise05/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.deps.json
+/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise05/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.json
+/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise05/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.dev.json
+/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise05/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll
+/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise05/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb
+/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache
+/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfo.cs
+/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll
+/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb
+/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise05/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.genruntimeconfig.cache

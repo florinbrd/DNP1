@@ -6,10 +6,10 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            int score = 42;
+            int score = 142;
            
 
-            string message = score > 100 ? "This is nice" : "This is not nice";
+            string message = score < 100 ? "This is nice" : "This is not nice";
             
             Console.WriteLine(message);
         }

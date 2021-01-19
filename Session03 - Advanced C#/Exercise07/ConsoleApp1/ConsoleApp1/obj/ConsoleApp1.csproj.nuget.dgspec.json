@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/florinbordei/Desktop/DNP1.1/Session03/Exercise07/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {}
+    "/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise07/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {}
   },
   "projects": {
-    "/Users/florinbordei/Desktop/DNP1.1/Session03/Exercise07/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {
+    "/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise07/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/florinbordei/Desktop/DNP1.1/Session03/Exercise07/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+        "projectUniqueName": "/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise07/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "/Users/florinbordei/Desktop/DNP1.1/Session03/Exercise07/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
-        "packagesPath": "/Users/florinbordei/.nuget/packages/",
-        "outputPath": "/Users/florinbordei/Desktop/DNP1.1/Session03/Exercise07/ConsoleApp1/ConsoleApp1/obj/",
+        "projectPath": "/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise07/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+        "packagesPath": "/Users/Florinelx/.nuget/packages/",
+        "outputPath": "/Users/Florinelx/Documents/GitHub/DNP1/Session03 - Advanced C#/Exercise07/ConsoleApp1/ConsoleApp1/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/florinbordei/.config/NuGet/NuGet.Config"
+          "/Users/Florinelx/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -27,6 +27,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,6 +39,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -48,12 +50,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }
